@@ -1,0 +1,19 @@
+.card{
+    background: gray;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 8px solid red;
+    border-radius: 20px;
+}
+.card2{
+    background: gray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    padding-right: 100px;
+}
